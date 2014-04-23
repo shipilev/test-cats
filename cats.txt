@@ -2,3 +2,4 @@ cats are boring
 rats are not
 I agree, git sucks.
 Consensus reached.
+My super awesome change.
